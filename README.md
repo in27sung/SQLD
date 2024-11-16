@@ -76,9 +76,21 @@
 나. 논리적 데이터 모델링(Logical Data Modeling)
 다. 물리적 데이터 모델링(Physical Data Modeling)
 
-### 제2절 엔터티(Entity)
+## 제2절 엔터티(Entity)
 
 ### 나. 발생시점에 따른 분류 
 1. 기본엔터티(Fundamental Entity/Key Entity(
 2. 중심엔터티(Main Entity)
 3. 행위엔터티(Active Entity)
+
+
+# 제3절 속성(Attribute)
+
+## 4. 속성의 분류 
+
+### 가. 속성의 특성에 따른 분류 
+
+1. 기본속성(Basic Attribute): 업무분석을 통해 바로 정의한 속성
+2. 설계속성(Designed Attribute): 원래 업무상 존재하지는 않지만 설계를 하면서 도출해내는 속성
+3. 파생속성(Derived Attribute): 다른 속성으로부터 계산이나 변형이 되어 생성되는 속성 
+
